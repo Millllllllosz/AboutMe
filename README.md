@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://cdn.discordapp.com/attachments/914918644574724147/927888803354525726/New_Project__7_-removebg-preview.png" width="500"></img>
 
 ### Hi there 👋
