@@ -1,5 +1,3 @@
-<img src="" width="500"></img>
-
 ### Hi there 👋
 
 It's great that you are here! Stay longer and you will not regret it :)
