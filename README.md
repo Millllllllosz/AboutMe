@@ -1,16 +1,18 @@
 ### Hi there 👋
+<img src="https://cdn.discordapp.com/attachments/914918644574724147/927888803354525726/New_Project__7_-removebg-preview.png" width="500"></img>
 
-<!--
-**Millllllllosz/Millllllllosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+It's great that you are here! Stay longer and you will not regret it :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me
+
+⌨️ I'm learning: C#, Java. JavaScript and Phtyon
+
+💻 I have extensive experience in programming discord bots
+
+🍳 I live in Poland
+
+🎵 I love sing and play instruments
+
+------
