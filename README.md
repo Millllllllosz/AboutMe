@@ -6,7 +6,7 @@ It's great that you are here! Stay longer and you will not regret it :)
 
 # About me
 
-⌨️ I'm learning: C#, Java. JavaScript and Phtyon
+⌨️ I'm learning: C#, Java. JavaScript and Python
 
 💻 I have extensive experience in programming discord bots
 
